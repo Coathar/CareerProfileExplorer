@@ -1,0 +1,121 @@
+#Stat Context Type,Stat Context Name,Friendly Name,Overwatch Version,Season Number,Type
+# Unranked
+Unranked,,Unranked,,,Unranked
+VS AI,,vs AI,,,
+Unknown,,Unknown,,,
+Ruleset,Quick Play Open Queue,Unranked Open Queue,,,Unranked
+Ruleset,Experimental,Experimental,,,Experimental
+
+# Arcade
+Ruleset,CTF,CTF,,,Arcade
+Ruleset,Elimination,Elimination,,,Arcade
+Ruleset,Mystery Heroes,Mystery Heroes,,,Arcade
+Ruleset,Team Deathmatch,Team Deathmatch,,,Arcade
+Ruleset,Deathmatch,Deathmatch,,,Arcade
+Ruleset,Mystery Deathmatch,Mystery Deathmatch,,,Arcade
+Ruleset,Hero Gauntlet Deathmatch,Hero Gauntlet Deathmatch,,,Arcade
+Ruleset,Mirrored Deathmatch,Mirrored Deathmatch,,,Arcade
+Ruleset,Quick Play Classic,Open Queue,,,Arcade
+Ruleset,No Limits,No Limits,,,Arcade
+Ruleset,Total Mayhem,Total Mayhem,,,Arcade
+Ruleset,LucioBaller,Lúcio Ball,,,Arcade
+Ruleset,LucioBall,Lúcio Ball,,,Arcade
+Ruleset,Battle for Olympus,Battle for Olympus,,,Arcade
+Ruleset,Winter 2020 Freeze,Freeze-Thaw Elimination,,,Arcade
+Ruleset,Yeti Hunter,Yeti Hunter,,,Arcade
+Ruleset,Duel,1v1,,,Arcade
+Ruleset,Retribution All Heroes,Retribution All Heroes,,,Arcade
+Ruleset,Uprising All Heroes,Uprising All Heroes,,,Arcade
+Ruleset,Halloween,Junkensteins Revenge,,,Arcade
+Ruleset,Halloween Endless,Junkensteins Revenge Endless,,,Arcade
+Ruleset,Wrath of the Bride,Wrath of the Bride,,,Arcade
+
+# Ranked Arcade
+Ruleset,CTF - Ranked Season 1,Competitive CTF,1,1,Arcade
+Ruleset,CTF - Ranked Season 2,Competitive CTF,1,2,Arcade
+Ruleset,CTF - Ranked Season 3,Competitive CTF,1,3,Arcade
+Ruleset,CTF - Ranked Season 4,Competitive CTF,1,4,Arcade
+
+Ruleset,Elimination 6v6 Lockout - Ranked Season 1,Competitive 6v6 Elimination,1,1,Arcade
+Ruleset,Elimination 6v6 Lockout - Ranked Season 2,Competitive 6v6 Elimination,1,2,Arcade
+
+Ruleset,Deathmatch - Ranked Season 1,Competitive Deathmatch,1,1,Arcade
+Ruleset,Deathmatch - Ranked Season 2,Competitive Deathmatch,1,2,Arcade
+Ruleset,Deathmatch - Ranked Season 3,Competitive Deathmatch,1,3,Arcade
+Ruleset,Deathmatch - Ranked Season 4,Competitive Deathmatch,1,4,Arcade
+Ruleset,Competitive Deathmatch OW2 Season 1,Competitive Deathmatch,2,1,Arcade
+
+Ruleset,Team Deathmatch - Ranked Season 1,Competitive Team Deathmatch,1,1,Arcade
+Ruleset,Team Deathmatch - Ranked Season 2,Competitive Team Deathmatch,1,2,Arcade
+Ruleset,Team Deathmatch - Ranked Season 3,Competitive Team Deathmatch,1,3,Arcade
+Ruleset,Team Deathmatch - Ranked Season 4,Competitive Team Deathmatch,1,4,Arcade
+
+Ruleset,LucioBall - Ranked Season 1,Competitive Lúcio Ball,1,1,Arcade
+Ruleset,LucioBall - Ranked Season 2,Competitive Lúcio Ball,1,2,Arcade
+Ruleset,LucioBall - Ranked Season 3,Competitive Lúcio Ball,1,3,Arcade
+Ruleset,LucioBall - Ranked Season 4,Competitive Lúcio Ball,1,4,Arcade
+
+Ruleset,No Limits - Ranked Season 1,Competitive No Limits,1,1,Arcade
+
+Ruleset,Role Queue Beta,Competitive Role Queue Beta,1,1,Arcade
+
+Ruleset,Competitive Mystery Heroes OW2 Season 1,Competitive Mystery Heroes,2,1,Arcade
+
+# Ranked
+Ranked,Season 3,Competitive Role Queue,1,3,Competitive
+Ranked,Season 4,Competitive Role Queue,1,4,Competitive
+Ranked,Season 5,Competitive Role Queue,1,5,Competitive
+Ranked,Season 6,Competitive Role Queue,1,6,Competitive
+Ranked,Season 7,Competitive Role Queue,1,7,Competitive
+Ranked,Season 8,Competitive Role Queue,1,8,Competitive
+Ranked,Season 9,Competitive Role Queue,1,9,Competitive
+Ranked,Season 10,Competitive Role Queue,1,10,Competitive
+Ranked,Season 11,Competitive Role Queue,1,11,Competitive
+Ranked,Season 12,Competitive Role Queue,1,12,Competitive
+Ranked,Season 13,Competitive Role Queue,1,13,Competitive
+Ranked,Season 14,Competitive Role Queue,1,14,Competitive
+Ranked,Season 15,Competitive Role Queue,1,15,Competitive
+Ranked,Season 16,Competitive Role Queue,1,16,Competitive
+Ranked,Season 17,Competitive Role Queue,1,17,Competitive
+Ranked,Season 18,Competitive Role Queue,1,18,Competitive
+Ranked,Season 19,Competitive Role Queue,1,19,Competitive
+Ranked,Season 20,Competitive Role Queue,1,20,Competitive
+Ranked,Season 21,Competitive Role Queue,1,21,Competitive
+Ranked,Season 22,Competitive Role Queue,1,22,Competitive
+Ranked,Season 23,Competitive Role Queue,1,23,Competitive
+Ruleset,Ranked - Season 23 - JulAug 2020 OpenQueue,Competitive Open Queue,1,23,Competitive
+Ranked,Season 24,Competitive Role Queue,1,24,Competitive
+Ruleset,Ranked - Season 24 - SepOct 2020 OpenQueue,Competitive Open Queue,1,24,Competitive
+Ranked,Season 25,Competitive Role Queue,1,25,Competitive
+Ranked,Ranked - Season 25 - NovDec 2020 OpenQueue,Competitive Open Queue,1,25,Competitive
+Ranked,Season 26,Competitive Role Queue,1,26,Competitive
+Ruleset,Ranked - Season 26 - JanFeb 2021 OpenQueue,Competitive Open Queue,1,26,Competitive
+Ranked,Season 27,Competitive Role Queue,1,27,Competitive
+Ruleset,Ranked - Season 27 - MarApr 2021 OpenQueue,Competitive Open Queue,1,27,Competitive
+Ranked,Season 28,Competitive Role Queue,1,28,Competitive
+Ruleset,Ranked - Season 28 - MayJun 2021 OpenQueue,Competitive Open Queue,1,28,Competitive
+Ranked,Season 29,Competitive Role Queue,1,29,Competitive
+Ruleset,Ranked - Season 29 - JulAug 2021 OpenQueue,Competitive Open Queue,1,29,Competitive
+Ranked,Season 30,Competitive Role Queue,1,30,Competitive
+Ruleset,Ranked - Season 30 - SepOct 2021 OpenQueue,Competitive Open Queue,1,30,Competitive
+Ranked,Season 31,Competitive Role Queue,1,31,Competitive
+Ruleset,Ranked - Season 31 - NovDec 2021 OpenQueue,Competitive Open Queue,1,31,Competitive
+Ranked,Season 32,Competitive Role Queue,1,32,Competitive
+Ruleset,Ranked - Season 32 - JanFeb 2022 OpenQueue,Competitive Open Queue,1,32,Competitive
+Ranked,Season 33,Competitive Role Queue,1,33,Competitive
+Ruleset,Ranked - Season 33 - MarApr 2022 OpenQueue,Competitive Open Queue,1,33,Competitive
+Ranked,Season 34,Competitive Role Queue,1,34,Competitive
+Ruleset,Ranked - Season 34 - JulAug 2020 OpenQueue,Competitive Open Queue,1,34,Competitive
+Ranked,Season 35,Competitive Role Queue,1,35,Competitive
+Ruleset,Ranked - Season 35 - JulAug 2022 OpenQueue,Competitive Open Queue,1,35,Competitive
+Ranked,Season 36,Competitive Role Queue,1,36,Competitive
+Ruleset,Ranked - Season 36 - SepOct 2022 OpenQueue,Competitive Open Queue,1,36,Competitive
+
+Ruleset,Competitive Season 1,Competitive Role Queue,2,1,Competitive
+Ruleset,Competitive Open Queue - Ranked Season 1,Competitive Open Queue,2,1,Competitive
+Ruleset,Competitive Season 2,Competitive Role Queue,2,2,Competitive
+Ruleset,Competitive Open Queue - Ranked Season 2,Competitive Open Queue,2,2,Competitive
+Ruleset,Competitive Season 3,Competitive Role Queue,2,3,Competitive
+Ruleset,Competitive Season 3 - Open Queue,Competitive Open Queue,2,3,Competitive
+Ruleset,Competitive Season 4,Competitive Role Queue,2,4,Competitive
+Ruleset,Competitive Season 4 - Open Queue,Competitive Open Queue,2,4,Competitive

@@ -16,6 +16,7 @@
     },
     "include": [
         "main.ts",
+        "avatar.ts",
         "../shared/ProfileContainers.ts"
     ]
 }

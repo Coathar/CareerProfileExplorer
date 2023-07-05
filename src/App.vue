@@ -1,9 +1,25 @@
-<script setup lang="ts">
+<script lang="ts" setup>
+import { useAccountDataStore } from '@/stores/AccountDataStore';
+import { storeToRefs } from 'pinia';
 import { RouterLink, RouterView } from 'vue-router'
+
+const store = useAccountDataStore();
+const { accounts } = storeToRefs(store);
+store.fetchAllAccounts();
 </script>
 
 <script lang="ts">
 export default {
+  computed: {
+    playerIconImage() {
+      const store = useAccountDataStore();
+      if (store.accounts.length > 0) {
+        return store.accounts[0].OverwatchPlayer.PlayerIconURL;
+      }
+      
+      return "https://d15f34w2p8l1cc.cloudfront.net/overwatch/c3090e3a1dccc58f143ff53801bc0cecb139f0eb1278f157d0b5e29db9104bed.png";
+    }
+  },
   methods: {
     getFriendlyRouteName(routeName:String | undefined) {
       switch (routeName)
@@ -29,12 +45,12 @@ export default {
       </div>
 
       <div class="settings-gear-container">
-        <RouterLink to="/config" class="settings-gear-background"><img src="src/assets/gear.svg"/></RouterLink>
+        <RouterLink to="/config" class="settings-gear-background"><img src="/src/assets/gear.svg"/></RouterLink>
       </div>
     </div>
   
     <div class="profile-header-container">
-      <img class="player-icon" src="https://d15f34w2p8l1cc.cloudfront.net/overwatch/c3090e3a1dccc58f143ff53801bc0cecb139f0eb1278f157d0b5e29db9104bed.png"/>
+      <img class="player-icon" v-bind:src="playerIconImage"/>
       <h1 class="nameplate title-font-italic"> {{ getFriendlyRouteName($route.name?.toString()) }}</h1>
     </div>
   </div>
